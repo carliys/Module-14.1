@@ -14,9 +14,10 @@ header, .project:not(:last-child) {
 
 
 body {
-  background-color: bisque;
+  background-color: rgba(237, 180, 205, 0.796);
 }
 
 h1 {
   text-align: center;
 }
+
